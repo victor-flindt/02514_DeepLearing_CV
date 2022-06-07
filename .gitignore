@@ -129,3 +129,5 @@ dmypy.json
 .pyre/
 dlenv/
 week*/day*/data/*
+project1/SVHN/*
+project1/cifar/*
