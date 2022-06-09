@@ -127,7 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-dlenv/
+dlenv*/
 week*/day*/data/*
 project1/SVHN/*
 project1/cifar/*
+
